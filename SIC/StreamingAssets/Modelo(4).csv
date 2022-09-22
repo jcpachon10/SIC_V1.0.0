@@ -1,0 +1,5 @@
+ID;Nombre;Cliente;Largo ;Alto;Ancho;Peso(kg);Und;Rotación eje z;Rotación eje x;Limite de peso sin rotación;Cara lateral arriba ;Cara Frotal arriba
+0;caja;1;50;50;50;50;50;1;1;50;50;50
+1;maleta;0;50;50;50;50;50;0;0;50;50;50
+;;;;;;;;;;;;
+;;;;;;;;;;;;
